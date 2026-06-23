@@ -1,0 +1,5 @@
+# This project uses Python's standard libraries:
+# - sqlite3 (database)
+# - tkinter (graphical interface)
+# - unittest (tests)
+# - datetime, re, os etc. # Therefore, it does not require the installation of any external packages.
